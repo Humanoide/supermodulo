@@ -128,6 +128,7 @@
 'web_timeline',
 'web_tour',
 'calendar',
+'l10n_es_vat_book',
 
 ],
 
