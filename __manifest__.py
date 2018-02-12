@@ -129,6 +129,7 @@
 'web_tour',
 'calendar',
 'l10n_es_vat_book',
+'account_financial_report_qweb',
 
 ],
 
