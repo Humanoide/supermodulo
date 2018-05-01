@@ -95,6 +95,8 @@
 'l10n_es_aeat_mod111',
 'l10n_es_aeat_mod115',
 'l10n_es_aeat_mod303',
+'l10n_es_aeat_mod349',    
+'l10n_es_mis_report',    
 'l10n_es_partner',
 'l10n_es_toponyms',
 'mass_editing',
