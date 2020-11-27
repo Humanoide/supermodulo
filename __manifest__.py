@@ -55,6 +55,7 @@
 'account_payment_partner',
 'account_renumber',
 'account_reversal',
+'account_move_force_removal',
 'account_tax_balance',
 'analytic',
 'auth_crypt',
